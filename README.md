@@ -15,3 +15,7 @@ https://www.accuweather.com/pt/br/brazil-weather
 ## Módulo 01: 
 - Descrição do projeto
 - Apresentação gráfica do protótipo
+
+## Módulo 02: 
+- Instalação e configuração do React
+- Estrutura visual dos estilos da página
